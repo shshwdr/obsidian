@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "4ec4a63c0bb413ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "404bf2fd902c4a5b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "游戏/2022.01/游荡者：弗兰肯斯坦的怪物.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de361f41654d23d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "85ed95e853aacb98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "347c350e5b2d4a9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b70e4c00b8031c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "swat",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a53592f6ac0bd6d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "07c76b88687c9d52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3b824bae2ab48c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "游戏/2022.01/游荡者：弗兰肯斯坦的怪物.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "404bf2fd902c4a5b",
+  "lastOpenFiles": [
+    "游戏/2022.01/游荡者：弗兰肯斯坦的怪物.md",
+    "游戏/2022.01/slice and dice.md",
+    "游戏/2022.01/hoosegow.md",
+    "游戏/2022.01/格 block.md",
+    "游戏/2022.01/迷宫山谷.md",
+    "游戏/2022.01/the apocalypse sacrifice.md",
+    "游戏/2022.01/it takes two.md",
+    "游戏/2022.01/迷图冒险.md",
+    "游戏/2022.01/军团战棋 legion war.md",
+    "游戏/2022.01/精灵之境.md"
+  ]
+}
