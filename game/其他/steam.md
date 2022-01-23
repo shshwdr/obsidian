@@ -1,0 +1,1 @@
+https://steamspy.com/register/success
