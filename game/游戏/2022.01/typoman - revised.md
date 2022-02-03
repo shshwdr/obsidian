@@ -1,4 +1,6 @@
-https://www.bilibili.com/video/BV1js41167cT?from=search&seid=2313190521095554912&spm_id_from=333.337.0.0
+chttps://www.bilibili.com/video/BV1js41167cT?from=search&seid=2313190521095554912&spm_id_from=333.337.0.0
+
+有点像[[Scribblenauts 涂鸦冒险家]]但脑洞（词汇量）不够大
 
 开始自动“合成” go和drop作为提示，plank可以放倒
 EV LVE，地上有个E，捡起来以后你变成了上o下e，和其他字母拼成了evolve
@@ -22,10 +24,17 @@ gas在周围有毒气，呆着一段时间就毒死了，加上p可以让你呼�
 rain加上D变drain把手抽干
 
 capese-》peace场景亮一下，没用-》cape获得一个拉风的披风- 并没有用 -》escape
+gap->彩蛋，人中间会出现空隙
+old-》彩蛋，场景加上旧旧的滤镜
+dead-》自杀
+rose-》出现玫瑰
 
 brave把b去掉可以得到舞厅效果灯
 brave，faith，safe，good都可以形成保护结界，连扎两针fear就死了，所以要不时形成结界恢复
+cover形成另一种结界，可以防枪
+rise 范围内的东西升起来
 
+sort 范围内排序
 
 
 
@@ -37,6 +46,23 @@ door可以在墙上开门
 所有字母都可以作为垫脚石
 solid可以防止两边的机关把自己碾碎
 
+天使（muse）用羽毛变成s和e， save了我
+
+有点关卡前景会挡住部分游戏画面增加难度
+
+传送可以把一个字母传送过去，如果和旁边的字合成有意义的文字就自动触发，比如H移到over前面就浮起来啦
+组合传送，每个传送上都有字母后一起传送过去
+
+tilt
+split 
+
+最后打boss，需要先躲避攻击，然后拼出hope，good等词对boss造成伤害
+最后Hero变成Hoper拥有了两只手
+
+但别忘了这一些都依赖于lie 哈哈。。
+
+最后还有找到的词的统计。好像一共300来个词
+
 
 
 #单词 #platformer 
@@ -44,3 +70,5 @@ solid可以防止两边的机关把自己碾碎
 ![[Pasted image 20220104195441.png]]
 ![[Pasted image 20220106203101.png]]
 ![[Pasted image 20220106215754.png]]
+![[Pasted image 20220201205248.png]]
+![[Pasted image 20220201210012.png]]

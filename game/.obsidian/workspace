@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fed2794d20200219",
+        "id": "8db1c5e944bbf6bf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/steam.md",
+            "file": "游戏/2022.01/typoman - revised.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#swat",
+                "query": "typo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/steam.md",
+                "file": "游戏/2022.01/typoman - revised.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fed2794d20200219",
+  "active": "8db1c5e944bbf6bf",
   "lastOpenFiles": [
-    "其他/steam.md",
-    "游戏/2022.01/Shadow Tactics Blades of the Shogun 影子战术.md",
-    "游戏/2022.01/bad north.md",
-    "游戏/2022.01/door kickers.md",
-    "游戏/2021/2021.12/vodobanka.md",
-    "游戏/2021/2021.12/hot brass.md",
-    "游戏/2022.01/wonhon a vengeful spirit 媛红.md",
-    "游戏/2022.01/谋杀 灵魂疑犯.md",
-    "游戏/2022.01/Oddworld Soulstorm奇异世界 灵魂风暴.md",
-    "游戏/2022.01/小骨 英雄杀手Skul The Hero Slayer.md"
+    "游戏/2022.01/typoman - revised.md",
+    "游戏/2022.02/dungeon maker.md",
+    "游戏/2022.02/legend TD2 军团战争2.md",
+    "游戏/2022.02/浮岛大决战.md",
+    "游戏想法/rpg+roguelike+td.md",
+    "游戏/2022.02/dwerve 战将杜沃.md",
+    "游戏/2022.02/pokemon unite.md",
+    "游戏/2022.02/doors paradox.md",
+    "游戏/2022.01/伊甸之路One Step From Eden.md",
+    "游戏/2021/2021.12/digfender.md"
   ]
 }
