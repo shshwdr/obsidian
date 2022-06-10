@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "29f94073110e96b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "15797bf1fbd0360f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "game/jams/Brackeys Game Jam 2021.1stronger together/magnet together.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e53a589a3a2ac8fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c88ac07ac873a34f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31162fe3ca031398",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3932717ba7733d00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "开局",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 426
+  },
+  "right": {
+    "id": "0fabfcf684defe68",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8b652fad008066e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c865c4ab8a4f571",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "game/jams/Brackeys Game Jam 2021.1stronger together/magnet together.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "15797bf1fbd0360f",
+  "lastOpenFiles": [
+    "game/jams/Brackeys Game Jam 2021.1stronger together/magnet together.md",
+    "game/游戏想法/仕女图.md",
+    "game/游戏/2022.06/万民四末 four last things.md",
+    "game/游戏想法/明星公关.md",
+    "game/游戏想法/窥探别人的微信.md",
+    "game/游戏想法/魔王杂货铺.md",
+    "game/游戏想法/贪吃人.md",
+    "game/游戏想法/谈判专家.md",
+    "game/游戏想法/物理引擎+IK.md",
+    "game/游戏想法/汉字工厂.md"
+  ]
+}
