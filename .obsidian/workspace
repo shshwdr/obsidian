@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "game/jams/Brackeys Game Jam 2021.1stronger together/magnet together.md",
-            "mode": "source"
+            "file": "game/游戏/2022.01/silly walks.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "开局",
+                "query": "音乐",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game/jams/Brackeys Game Jam 2021.1stronger together/magnet together.md",
+                "file": "game/游戏/2022.01/silly walks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "15797bf1fbd0360f",
   "lastOpenFiles": [
-    "game/jams/Brackeys Game Jam 2021.1stronger together/magnet together.md",
-    "game/游戏想法/仕女图.md",
-    "game/游戏/2022.06/万民四末 four last things.md",
-    "game/游戏想法/明星公关.md",
-    "game/游戏想法/窥探别人的微信.md",
-    "game/游戏想法/魔王杂货铺.md",
-    "game/游戏想法/贪吃人.md",
-    "game/游戏想法/谈判专家.md",
-    "game/游戏想法/物理引擎+IK.md",
-    "game/游戏想法/汉字工厂.md"
+    "game/游戏/2022.01/silly walks.md",
+    "game/游戏/2022.01/Shadowmatic 投影寻真.md",
+    "game/游戏/2022.01/Shadow Tactics Blades of the Shogun 影子战术.md",
+    "game/游戏/2022.01/Samsara.md",
+    "game/游戏/2022.01/rogue run.md",
+    "game/游戏/2022.01/Rhythm Heaven.md",
+    "game/游戏/2022.01/rewinder.md",
+    "game/游戏/2022.01/post knight.md",
+    "game/游戏/2022.01/phylo.md",
+    "game/游戏/2022.01/phantom rose.md"
   ]
 }
