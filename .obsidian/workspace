@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "game/游戏想法/想要模仿的游戏.md",
+            "file": "game/游戏/2022.07/迷你战旗.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<<<<",
+                "query": "解密",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game/游戏想法/想要模仿的游戏.md",
+                "file": "game/游戏/2022.07/迷你战旗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "15797bf1fbd0360f",
   "lastOpenFiles": [
-    "game/游戏想法/想要模仿的游戏.md",
-    "我是一颗小水珠.md",
-    "game/游戏/2022.01/silly walks.md",
-    "game/游戏/2022.01/Shadowmatic 投影寻真.md",
-    "game/游戏/2022.01/Shadow Tactics Blades of the Shogun 影子战术.md",
-    "game/游戏/2022.01/Samsara.md",
-    "game/游戏/2022.01/rogue run.md",
-    "game/游戏/2022.01/Rhythm Heaven.md",
-    "game/游戏/2022.01/rewinder.md",
-    "game/游戏/2022.01/post knight.md"
+    "game/游戏/2022.07/迷你战旗.md",
+    "game/游戏想法/迷你战旗.md",
+    "game/游戏/2022.07/骰子玩偶王.md",
+    "game/游戏/2022.07/青蛙锅.md",
+    "game/游戏/2022.07/连锁反应.md",
+    "game/游戏/2022.07/纸片骑士.md",
+    "game/游戏/2022.07/流浪方舟.md",
+    "game/游戏/2022.07/枕边故事.md",
+    "game/游戏/2022.07/末世列车.md",
+    "game/游戏/2022.07/克苏加 篝火侍者.md"
   ]
 }
