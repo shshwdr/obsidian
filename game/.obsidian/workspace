@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "游戏/2022.06/进化之地2.md",
+            "file": "游戏/2022.06/豆腐糖块.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "音乐",
+                "query": "白夜",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏/2022.06/进化之地2.md",
+                "file": "游戏/2022.06/豆腐糖块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8db1c5e944bbf6bf",
   "lastOpenFiles": [
-    "游戏/2022.06/进化之地2.md",
-    "游戏/2022.06/怪物极限冲刺.md",
-    "游戏/2022.06/two dots.md",
-    "游戏/2022.06/止与战.md",
-    "游戏/2022.06/直线消除1&2.md",
-    "游戏/2022.06/萌企部落.md",
-    "游戏/2022.06/众神地下城.md",
-    "游戏/2022.06/赛车高手.md",
     "游戏/2022.06/豆腐糖块.md",
-    "游戏/2022.06/点灯人.md"
+    "游戏/2022.06/波可龙迷宫.md",
+    "游戏/2022.06/sprout 孤岛生存球.md",
+    "游戏/2022.06/冒险之心.md",
+    "游戏/2022.06/部落与弯刀.md",
+    "jams/Wowied jam 2.0 intentional bug/1bit.md",
+    "游戏/2022.06/猫旅馆物语.md",
+    "游戏/2022.06/默示录 献祭.md",
+    "游戏/2022.06/埃及古国 史前埃及.md",
+    "游戏/2022.06/dynamix.md"
   ]
 }
