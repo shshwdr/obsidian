@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "游戏/2022.06/豆腐糖块.md",
+            "file": "游戏想法/寻梦人.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "白夜",
+                "query": "叙事",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏/2022.06/豆腐糖块.md",
+                "file": "游戏想法/寻梦人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8db1c5e944bbf6bf",
   "lastOpenFiles": [
-    "游戏/2022.06/豆腐糖块.md",
-    "游戏/2022.06/波可龙迷宫.md",
-    "游戏/2022.06/sprout 孤岛生存球.md",
-    "游戏/2022.06/冒险之心.md",
-    "游戏/2022.06/部落与弯刀.md",
-    "jams/Wowied jam 2.0 intentional bug/1bit.md",
-    "游戏/2022.06/猫旅馆物语.md",
-    "游戏/2022.06/默示录 献祭.md",
-    "游戏/2022.06/埃及古国 史前埃及.md",
-    "游戏/2022.06/dynamix.md"
+    "游戏想法/寻梦人.md",
+    "游戏想法/topdown溜冰版鸟蛇.md",
+    "游戏想法/rpg+roguelike+td.md",
+    "游戏/2022.05/小兵求爱记 love esquire.md",
+    "游戏想法/模拟经营.md",
+    "游戏想法/汉字工厂.md",
+    "游戏想法/物理引擎+IK.md",
+    "游戏想法/策略战棋围棋 王国.md",
+    "游戏想法/考古游戏.md",
+    "游戏想法/谈判专家.md"
   ]
 }
