@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "游戏想法/寻梦人.md",
+            "file": "游戏/2022.08/ELOH.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "叙事",
+                "query": "开车",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏想法/寻梦人.md",
+                "file": "游戏/2022.08/ELOH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8db1c5e944bbf6bf",
   "lastOpenFiles": [
-    "游戏想法/寻梦人.md",
-    "游戏想法/topdown溜冰版鸟蛇.md",
-    "游戏想法/rpg+roguelike+td.md",
-    "游戏/2022.05/小兵求爱记 love esquire.md",
-    "游戏想法/模拟经营.md",
-    "游戏想法/汉字工厂.md",
-    "游戏想法/物理引擎+IK.md",
-    "游戏想法/策略战棋围棋 王国.md",
-    "游戏想法/考古游戏.md",
-    "游戏想法/谈判专家.md"
+    "游戏/2022.08/ELOH.md",
+    "游戏/2022.08/nood climbrs.md",
+    "游戏/2022.08/alto.md",
+    "游戏/2022.08/card thief 卡牌神偷.md",
+    "游戏/2022.08/generations.md",
+    "游戏/2022.08/hell rider 2.md",
+    "游戏/2022.08/hell rider.md",
+    "游戏/2022.08/酷喵跑酷.md",
+    "游戏想法/用开车的方式开人.md",
+    "游戏/2022.08/ID please.md"
   ]
 }
