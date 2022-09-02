@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a5f29ad864b0499",
+        "id": "efc526a9ae620f65",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "game/游戏/2022.08/60 parsecs.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "incre",
+                "query": "神",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game/游戏/2022.08/60 parsecs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a5f29ad864b0499",
+  "active": "31162fe3ca031398",
   "lastOpenFiles": [
-    "game/游戏/2022.08/despotism 3k.md",
-    "game/游戏/2022.08/slayaway camp.md",
-    "game/游戏/2022.08/raspberry mash.md",
-    "game/游戏/2022.08/one more line.md",
-    "game/游戏/2022.08/incredipede.md",
+    "game/游戏/2022.08/欺诈之地 Griftlands.md",
+    "game/游戏/2022.08/where cards fall.md",
+    "game/游戏/2022.08/tender.md",
+    "game/游戏/2022.08/wobble up.md",
     "game/游戏/2022.08/undead horde.md",
-    "game/游戏/2022.08/wanna survive.md",
-    "game/游戏/2022.08/60 seconds.md",
-    "game/jams/rhythm jam/60 seconds jam.md",
-    "game/游戏/2021/2021.11/old men's journey 回忆之旅.md"
+    "game/游戏/2022.08/anomoe.md",
+    "game/游戏/2022.08/timo.md",
+    "game/游戏/2022.08/Shadow of Naught Story Drama.md",
+    "game/游戏/2022.08/card thief.md",
+    "game/游戏/2022.08/w.md"
   ]
 }
