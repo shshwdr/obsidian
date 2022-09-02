@@ -7,8 +7,12 @@
         "id": "efc526a9ae620f65",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "game/游戏/2022.09/邪恶铭刻 Inscryption.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "神",
+                "query": "09",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "game/游戏/2022.09/邪恶铭刻 Inscryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "31162fe3ca031398",
+  "active": "efc526a9ae620f65",
   "lastOpenFiles": [
+    "game/游戏/2022.09/非一般职场.md",
+    "game/游戏/2022.09/杀戮尖塔 slay the spire.md",
+    "game/游戏/2022.08/Untitled.md",
     "game/游戏/2022.08/欺诈之地 Griftlands.md",
     "game/游戏/2022.08/where cards fall.md",
     "game/游戏/2022.08/tender.md",
     "game/游戏/2022.08/wobble up.md",
     "game/游戏/2022.08/undead horde.md",
     "game/游戏/2022.08/anomoe.md",
-    "game/游戏/2022.08/timo.md",
-    "game/游戏/2022.08/Shadow of Naught Story Drama.md",
-    "game/游戏/2022.08/card thief.md",
-    "game/游戏/2022.08/w.md"
+    "game/游戏/2022.08/timo.md"
   ]
 }
