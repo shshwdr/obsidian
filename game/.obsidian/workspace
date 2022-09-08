@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "游戏/2022.08/ELOH.md",
-            "mode": "source"
+            "file": "游戏/2022.09/alchemy dungeon.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "开车",
+                "query": "策略",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏/2022.08/ELOH.md",
+                "file": "游戏/2022.09/alchemy dungeon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "8db1c5e944bbf6bf",
   "lastOpenFiles": [
-    "游戏/2022.08/ELOH.md",
-    "游戏/2022.08/nood climbrs.md",
-    "游戏/2022.08/alto.md",
-    "游戏/2022.08/card thief 卡牌神偷.md",
-    "游戏/2022.08/generations.md",
-    "游戏/2022.08/hell rider 2.md",
-    "游戏/2022.08/hell rider.md",
-    "游戏/2022.08/酷喵跑酷.md",
-    "游戏想法/用开车的方式开人.md",
-    "游戏/2022.08/ID please.md"
+    "游戏/2022.09/bug butcher.md",
+    "游戏/2022.09/card fall.md",
+    "游戏/2022.09/causality.md",
+    "游戏/2022.09/dealers life 2.md",
+    "游戏/2022.09/dungeon cards.md",
+    "游戏/2022.09/ears and burgers.md",
+    "游戏/2022.09/flockers.md",
+    "游戏/2022.09/hoplite.md",
+    "游戏/2022.09/level head.md",
+    "游戏/2022.09/unmemory.md"
   ]
 }
