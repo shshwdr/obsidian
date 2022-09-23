@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "efc526a9ae620f65",
+        "id": "d242fd43953b59fd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "game/游戏/2022.09/邪恶铭刻 Inscryption.md",
+            "file": "game/游戏/2022.09/武器投掷RPG2 悠久之空岛 weapon throwing.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "09",
+                "query": "grow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game/游戏/2022.09/邪恶铭刻 Inscryption.md",
+                "file": "game/游戏/2022.09/武器投掷RPG2 悠久之空岛 weapon throwing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "efc526a9ae620f65",
+  "active": "31162fe3ca031398",
   "lastOpenFiles": [
-    "game/游戏/2022.09/非一般职场.md",
-    "game/游戏/2022.09/杀戮尖塔 slay the spire.md",
-    "game/游戏/2022.08/Untitled.md",
-    "game/游戏/2022.08/欺诈之地 Griftlands.md",
-    "game/游戏/2022.08/where cards fall.md",
-    "game/游戏/2022.08/tender.md",
-    "game/游戏/2022.08/wobble up.md",
-    "game/游戏/2022.08/undead horde.md",
-    "game/游戏/2022.08/anomoe.md",
-    "game/游戏/2022.08/timo.md"
+    "game/游戏/2022.08/card  crawl.md",
+    "game/游戏/2022.09/carto无尽旅图.md",
+    "game/游戏/2022.09/gumslinger.md",
+    "game/游戏/2022.09/democracy 3.md",
+    "game/游戏/2021/2021.11/merge dragons（萌龙进化史）.md",
+    "game/游戏/2022.01/merge tactics.md",
+    "game/游戏/2021/2021.12/破碎地牢 shattered pixel dungeon.md",
+    "game/游戏/2022.07/迷你战旗.md",
+    "game/游戏/2022.09/汉字魔法.md",
+    "game/游戏/2022.09/30 birds.md"
   ]
 }
