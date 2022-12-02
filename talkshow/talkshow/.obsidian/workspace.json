@@ -1,0 +1,655 @@
+{
+  "main": {
+    "id": "d1f4e5a2dfae617b",
+    "type": "split",
+    "children": [
+      {
+        "id": "abbdef5633d30fa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8d6b888939ca8d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "可以讲的事情/爬山.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5139b66a607e14c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          },
+          {
+            "id": "8cfff53ad4465e1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "可以讲的事情/上海.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "652c2e1a15650813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "可以讲的事情/广中路小学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66275250ec14c72a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "可以讲的事情/上海.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3393ef1b877009e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "可以讲的事情/昌河.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88bf086a334e1e0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "可以讲的事情/上学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "126a514aac1bac83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "可以讲的事情/昌河.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89af76906b665a6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/美国登月叫阿波罗了，那豋日叫什么.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67382a38107c5a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/同学们或许还不知道吧，在你们都已进入梦乡的时候，老师还在辛勤地讲着课。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6219a02a70dc8b3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/建议以后大学生回答“论文写得怎么样了？”时，别再说“八字还没一撇”，改成“水字还没一竖钩”。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2a443d5be1e46da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/这爱豆可盐可甜因为本身就淡而无味.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c17a2cc63db6b5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/人为什么有两只眼睛？因为人有一只左眼，还有一只右眼，一加一等于二，所以人类拥有两只眼睛。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d23f6679c01a647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/如果我现在死了，那我以后就不用死了。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e94c0a87c64cd973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/冷知识：冰箱里的奶酪。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "595d7d87c6fcd5fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/这个食人族吃相太丑了，举手投足提心吊胆的.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e780f9294a936ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/我把门关上，我锁住了房间；我把棺材板盖上，我锁住了全世界.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a084240a8e662862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/我养成了晚睡的习惯，这样如果我在梦中死去，我就能比早睡的人多活一会。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bde42fadd89c4a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "可以讲的事情/熬夜.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56b13858d1c76b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/梦是记忆的remix版本.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3448217a4256778b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/如果老师把授课方式改成托梦，那么学生们的请假理由就会从起不来变成睡不着。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e539d2d1508f818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/因为电子书没有书香，所以电子书没有书香.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04d04cd528199050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/入睡是豪赌，赢了做美梦，输了做噩梦。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af0a7d3f88575dc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/存在的星星不一定都发光，发光的星星不一定还存在。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "986f0d4b40872541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/手铐勒痕，是不是也能叫法令纹.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47440f9c24f68852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/“你走你的。”阳关道。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36fbac0de3fbfdef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/大气里最多的气体是氮气，原来人的本质是薯片.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f50985345c3804de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/路边歪斜的共享单车，是失去灵魂的上班族的蜕壳.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e3227dbc5f6f280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/我给了世界一拳，世界还我以风.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52adb365152e500d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/周敦颐因为首次采用了踩一捧一的思想而被誉为我国古代著名思想家.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fee539efeaa0dd85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/在过去特定时间点送花和转账的中国传统节日只有清明节。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "963a8ae69febe64b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/一想到流逝的时间心里就很沉重，可不可能心脏是种能感受时间的器官.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c8995b2518915db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/人生还是很简单的，看我一命通关。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e7f6cf95fd0e7c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/晚上睡不着觉，我妈告诉我，躺平了才能睡着，卷着是睡不着的。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2520abffd6aeb9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/“我年轻的时候是白手起家。”满手鲜血的老资本家自豪地回忆道。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "180d4f345c6d62cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/初中的电源没有内阻，而高中的电源有，这是不是科学的倒退.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e34aec6dd285c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/我从耳机盒子里拿出耳机戴上，会不会其实我也是耳机盒子？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e735f4b39723d686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/孟子认为性本善，荀子认为性本恶，而东北人认为银杏这种东西是逐渐发烂发臭的.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a6c53635e358ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/一座山最多可以容纳五个人，因为三人成虎.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a8a95bc93cc4967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/人酸了的时候通常会眼红，会不会眼睛其实是pH试纸？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee75795ae5a623d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/小孩没有钱就只能回家，大人没有钱就无法回家。.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a07c29fd58603e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/我的论文答辩：无实物表演.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "196d45a2b9aca0d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零散段子/委婉骂人：带你入坑地球ol的玩家退游了.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 42
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "837f2548804b8c52",
+    "type": "split",
+    "children": [
+      {
+        "id": "c57f56680312c6bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cda61de1f599b20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a24c388eef10fefe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35ce14843e9b0993",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebcb66ffca43a646",
+    "type": "split",
+    "children": [
+      {
+        "id": "acbc975de728ae26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e86553d2dfc01839",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "零散段子/委婉骂人：带你入坑地球ol的玩家退游了.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c3b7180ca7000ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "零散段子/委婉骂人：带你入坑地球ol的玩家退游了.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2705c2fd9de58205",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1792e802613c1c52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "零散段子/委婉骂人：带你入坑地球ol的玩家退游了.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "196d45a2b9aca0d1",
+  "lastOpenFiles": [
+    "零散段子/我的论文答辩：无实物表演.md",
+    "零散段子/小孩没有钱就只能回家，大人没有钱就无法回家。.md",
+    "零散段子/人酸了的时候通常会眼红，会不会眼睛其实是pH试纸？.md",
+    "零散段子/一座山最多可以容纳五个人，因为三人成虎.md",
+    "零散段子/孟子认为性本善，荀子认为性本恶，而东北人认为银杏这种东西是逐渐发烂发臭的.md",
+    "零散段子/我从耳机盒子里拿出耳机戴上，会不会其实我也是耳机盒子？.md",
+    "零散段子/初中的电源没有内阻，而高中的电源有，这是不是科学的倒退.md",
+    "零散段子/“我年轻的时候是白手起家。”满手鲜血的老资本家自豪地回忆道。.md",
+    "零散段子/晚上睡不着觉，我妈告诉我，躺平了才能睡着，卷着是睡不着的。.md",
+    "零散段子/人生还是很简单的，看我一命通关。.md"
+  ]
+}
