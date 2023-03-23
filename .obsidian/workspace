@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "game/游戏/2022.10/king 100 roguelike.md",
+            "file": "game/游戏/2022.10/森林里的小女巫.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "化石",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game/游戏/2022.10/king 100 roguelike.md",
+                "file": "game/游戏/2022.10/森林里的小女巫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "31162fe3ca031398",
+  "active": "6b77aa2424059f00",
   "lastOpenFiles": [
-    "game/游戏/2022.10/蛇蛇神庙Temple Of Snek.md",
-    "game/游戏/2021/2021.10/我的化石博物馆.md",
-    "game/游戏/2022.10/small living world.md",
-    "game/游戏/2022.10/低模之战 polytopia.md",
-    "game/游戏/2022.10/堆叠大陆 stacklands.md",
-    "game/游戏/2022.10/muggle solitaire.md",
-    "game/游戏/2022.10/signs of sojourner 旅居者的符号.md",
-    "game/游戏/2022.09/stray 流浪猫猫.md",
-    "game/游戏/2022.10/black border.md",
-    "game/游戏/2022.10/ovivo.md"
+    "game/游戏/2022.09/小偷模拟器.md",
+    "game/游戏/2022.10/蛇它虫.md",
+    "game/游戏/2022.09/上帝也疯狂 populous.md",
+    "game/游戏想法/我能看到成功率.md",
+    "game/游戏/2022.10/tiny island survival.md",
+    "game/游戏/2022.10/World Collector.md",
+    "game/游戏/2022.10/Escape Sequence.md",
+    "game/游戏想法/游戏拓展思路.md",
+    "game/游戏想法/房间拼接.md",
+    "game/游戏/2022.10/Game battle tycoon.md"
   ]
 }
