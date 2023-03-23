@@ -520,9 +520,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f413a5198890aac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 42
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -639,7 +649,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "196d45a2b9aca0d1",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7f413a5198890aac",
   "lastOpenFiles": [
     "零散段子/我的论文答辩：无实物表演.md",
     "零散段子/小孩没有钱就只能回家，大人没有钱就无法回家。.md",

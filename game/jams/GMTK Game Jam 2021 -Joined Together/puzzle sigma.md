@@ -1,4 +1,11 @@
 https://jontopielski.itch.io/puzzle-sigma
+算数计算解密游戏，移动和加减乘除连接得到需要的数来解锁过关
+
+如果把数字换成其他要件，比如炼金元素、生克五行、力智体敏等  
+当成游戏内某个模块的中和环节（如技能开启、天赋觉醒、魔法充能等操作性模块）  
+利用轻快的解锁体验来为大流程减压
+
+可以类似[[mage of mystralia]]一样搞个法术编程类似的东西
 
 you are a calculation operator(plus or minus or multiply), when you connect to a number you pick them. when you pick two on two side, then they calculate and get a result, the result will open the lock if they match the same value.
 
